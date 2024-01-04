@@ -1,5 +1,4 @@
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/199812547@N02/53441835934/in/dateposted-public/" title="Github Profile Header"><img src="https://live.staticflickr.com/65535/53441835934_e2879e63de_b.jpg" width="1024" height="307" alt="Github Profile Header"/></a>
-
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/199812547@N02/53441835934/in/dateposted-public/" title="Github Profile Header"><img src="https://live.staticflickr.com/65535/53441835934_e2879e63de_z.jpg" width="640" height="192" alt="Github Profile Header"/></a>
 
 <!--
 **pr1thvi/pr1thvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
