@@ -3,7 +3,7 @@
 
 # 📂 Prithvi Marwadi
 
-I'm a developer who has an engineering degree in Data Science and Artificial Intelligence but a knack for creating full stack web applications for the consumers.
+I'm a developer who has an engineering degree in Data Science and Artificial Intelligence but a knack for creating full stack web applications for consumers and businesses.
 I like to visualize data and make sound inferences to solve business problems. Some days I wake up and feel like working on the back end of an application and some days I just like to make charts and play with data.
 I have a somewhat artistic side that only comes out when I am making front-end of my apps
 
