@@ -1,6 +1,7 @@
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/199812547@N02/53441835934/in/dateposted-public/" title="Github Profile Header"><img src="https://live.staticflickr.com/65535/53441835934_e2879e63de_z.jpg" width="640" height="192" alt="Github Profile Header"/></a>
 
-<!--
+
+<!--![Github Profile Header](https://github.com/pr1thvi/pr1thvi/assets/155418164/62ef4e46-137b-4d4e-9b56-00db0cacb7ee)
+
 **pr1thvi/pr1thvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
